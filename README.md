@@ -11,5 +11,5 @@
 
 ## Calculation Logic
 The CGPA is calculated using the following formula:
-\[ \text{CGPA} = \frac{\sum (\text{Grade Point} \times \text{Credit Hours})}{\sum \text{Total Credit Hours}} \]
+{CGPA} = {{Grade Point}*{Credit Hours}}/{Total Credit Hours}
 
